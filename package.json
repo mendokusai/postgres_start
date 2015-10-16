@@ -1,0 +1,14 @@
+{
+  "name": "postgres_or_death",
+  "version": "1.0.0",
+  "description": "Another attempt to build up a node app with postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "explitives"
+  ],
+  "author": "ryan",
+  "license": "ISC"
+}
