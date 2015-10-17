@@ -10,5 +10,13 @@
     "explitives"
   ],
   "author": "ryan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^4.4.3",
+    "pg-hstore": "^2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mendokusai/postgres_start.git"
+  }
 }
